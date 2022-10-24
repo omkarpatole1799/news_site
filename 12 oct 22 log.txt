@@ -1,0 +1,13 @@
+News website
+    - connection with database ,
+
+    - fetch news from database,
+
+    - display news from database,
+
+    - add news to db,
+
+    - sign up and save details to db
+
+
+

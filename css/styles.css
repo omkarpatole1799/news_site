@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+.news-container {
+    margin-top: 2rem;
+    padding: 2rem;
+    border:2px solid red;
+    margin-bottom: 1rem;
+}
+
+img{
+    margin-left: 3rem;
+    width: auto;
+    height: auto;
+}
+
+.news-heading{
+    padding: 1rem 2rem 1rem 2rem;  
+    font-size: 1.6rem;
+}
+.time-stamp{
+    padding: 0rem 2rem 0rem 2rem;  
+}
+
+.news-description{
+    padding: 2rem;
+}
+
+.form-container {
+    padding-top: 2rem;  
+    width: 30rem;
+    text-align: center;
+}

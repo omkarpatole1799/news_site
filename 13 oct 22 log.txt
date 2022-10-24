@@ -1,0 +1,5 @@
+1. Home page data fetch from databse
+2. User login 
+3. User added news only
+4. Logout button
+5. Add news button (specifed for user loggedin)
